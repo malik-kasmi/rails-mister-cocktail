@@ -31,6 +31,7 @@ ruby '2.3.1'
 # gem 'capistrano-rails', group: :development
 gem 'simple_form'
 gem 'figaro'
+gem 'cloudinary', '1.1.0'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
